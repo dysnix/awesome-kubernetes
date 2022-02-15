@@ -42,6 +42,7 @@ Projects
 * [KubeEdge](https://kubeedge.io) - An open platform to enable Edge computing
 * [k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
 * [configurator](https://github.com/gopaddle-io/configurator) - A version control and a sync service that keeps Kubernetes ConfigMaps and Secrets in sync with the deployment.
+* [PredictKube: AI-based predictive autoscaler for Kubernetes](https://predictkube.com/)
 
 ## Package Managers
 
